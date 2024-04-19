@@ -1,7 +1,9 @@
 ```markdown
 # Spring Microservice Demo
 
-A brief description of what this project does and who it's for.
+This project is a Java-based application developed using the Spring Boot framework and managed with Maven. It is designed to handle and manage employee data. The application leverages the power of Spring Boot to simplify the development process, making it easier to create stand-alone, production-grade applications.
+
+The project also includes comprehensive unit tests, ensuring the reliability and stability of the application. It uses Testcontainers for integration tests, providing a disposable environment for tests to run, ensuring that tests have no side effects.
 
 ## Technologies Used
 
