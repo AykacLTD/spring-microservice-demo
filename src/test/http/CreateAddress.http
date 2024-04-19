@@ -1,0 +1,9 @@
+POST {{host}}/{{api}}/addresses/employee/5
+Content-Type: application/json
+
+{
+  "street1": "Park Road",
+  "street2": "15 Marker Court",
+  "state": "London",
+  "zip": "TS199SA"
+}

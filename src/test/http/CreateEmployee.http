@@ -1,0 +1,8 @@
+POST {{host}}/{{api}}/employees
+Content-Type: application/json
+
+{
+  "name": "Ayca",
+  "email": "Ayca@gmail.com",
+  "bloodgroup": "AB+"
+}
